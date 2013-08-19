@@ -1,0 +1,385 @@
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Charley
+Item Ordered: Dinger
+Unit Price: $1.22
+Total: $8.54
+Plus a $6.0 processing charge
+Grand Total: $14.54
+
+Customer: Jones
+Item Ordered: Widget
+Unit Price: $12.99
+Total: $90.93
+Plus a $6.0 processing charge
+Grand Total: $96.93
+
+Customer: Smith
+Item Ordered: Thingamajig
+Unit Price: $15.35
+Total: $184.2
+Plus a $7.0 processing charge
+Grand Total: $191.2
+
+Customer: Jackson
+Item Ordered: Whatchamacallit
+Unit Price: $14.57
+Total: $72.85
+Plus a $5.0 processing charge
+Grand Total: $77.85
+
+Customer: Gregs
+Item Ordered: Thinger
+Unit Price: $12.22
+Total: $61.1
+Plus a $5.0 processing charge
+Grand Total: $66.1

@@ -1,0 +1,4 @@
+grant
+{
+ permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/labs/labTwo/output/myOutput.txt" "write";
+};

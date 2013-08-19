@@ -1,0 +1,10 @@
+grant
+{
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/input/orderin.txt", "read";
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/input/xmlOrderin.xml", "read";
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/input/charges.dat", "read";
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/output/orderResult.txt", "read,write";
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/output/xmlOrderResult.xml", "read,write";
+    permission java.io.FilePermission "/home/pig/Dropbox/semester5/java/project/output/orderLog.txt", "read,write";
+    permission java.util.PropertyPermission  "*", "read,write";
+};
